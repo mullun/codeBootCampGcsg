@@ -1,0 +1,78 @@
+.container {
+
+}
+
+#main-bio {
+
+
+}
+
+#contact-info {
+
+
+}
+
+#bio-image {
+
+
+}
+
+body {
+	background-color: #efeee7;
+	font-family: "Georgia", "Times New Roman", "Times", "serif";
+	color: #333333;
+	margin: 0;
+	padding: 0;
+}
+
+#headerColor {
+	background-color: #333333;
+}
+
+h1 {
+	background-color: #333333;
+	color: white;
+	text-align: center;
+	padding: 25px;
+	margin-top: 25px;
+	margin-bottom: 25 px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	text-align: left;
+	font-family: sans-serif;
+	color: red;
+}
+
+h3 {
+	font-family: sans-serif;
+	color: blue;
+}
+
+#rCorners03 {
+	border-radius: 35px;
+	border: 5px solid blue;
+}
+
+#imageDiv {
+	width: 33%;
+	height: 350px;
+	float: left;
+	padding-top: 20px;
+}
+
+#contactDiv {
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+#paraDiv {
+	width: 33%;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	padding-top: 20px;
+}
